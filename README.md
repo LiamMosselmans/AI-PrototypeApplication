@@ -2,7 +2,7 @@
 
 UPLOAD NOTE
 Due to the file size limit on Github, only the 3D models and textures are available in the repository.
-To test the prototype, use the following google drive link to download the zip that holds the prototype: 
+To test the prototype, use the following google drive link to download the zip that holds the prototype: https://drive.google.com/drive/folders/14W-XCNwdSRbiUO3DN_2QI-bgoXUdU6HJ?usp=sharing
 
 
 IMPORTANT UNZIPPING NOTE
